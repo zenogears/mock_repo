@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-        cout << "lkftk";
-        cout << "imdfi";
-        cout << "qcwng";
-        cout << "sdjrh";
-        cout << "mfcdm";
+        cout << "kfaco";
+        cout << "qjfgl";
+        cout << "nhiol";
+        cout << "oflxp";
+        cout << "lxuiq";
 return 0;
 }
