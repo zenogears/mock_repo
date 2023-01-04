@@ -17,13 +17,8 @@ int main() {
         cout << "icgyh";
         cout << "iqrrf";
         cout << "ssypj";
-        cout << "jvtmu";
-        cout << "nxipi";
-        cout << "tjagf";
-        cout << "nggne";
-        cout << "pclbo";
-        cout << "pqwbp";
-        cout << "vwchb";
-        cout << "jiwno";
+        cout << "bjhna";
+        cout << "bmhat";
+        cout << "qbfeq";
 return 0;
 }
