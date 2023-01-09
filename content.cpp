@@ -15,10 +15,7 @@ int main() {
         cout << "nafeq";
         cout << "cojtj";
         cout << "icgyh";
-        cout << "iqrrf";
-        cout << "ssypj";
-        cout << "bjhna";
-        cout << "bmhat";
-        cout << "qbfeq";
+        cout << "bokta";
+        cout << "bneii";
 return 0;
 }
