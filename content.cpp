@@ -9,13 +9,8 @@ int main() {
         cout << "qjhrm";
         cout << "ilchq";
         cout << "hvicc";
-        cout << "spjrx";
-        cout << "mbryf";
-        cout << "jdbrc";
-        cout << "nafeq";
-        cout << "cojtj";
-        cout << "icgyh";
-        cout << "bokta";
-        cout << "bneii";
+        cout << "ksslq";
+        cout << "vaumk";
+        cout << "yhuoy";
 return 0;
 }
