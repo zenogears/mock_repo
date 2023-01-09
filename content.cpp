@@ -7,10 +7,7 @@ int main() {
         cout << "vkrim";
         cout << "yhqjt";
         cout << "qjhrm";
-        cout << "ilchq";
-        cout << "hvicc";
-        cout << "ksslq";
-        cout << "xkeon";
-        cout << "ewchi";
+        cout << "icwtx";
+        cout << "rcvyt";
 return 0;
 }
