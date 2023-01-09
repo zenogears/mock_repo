@@ -25,9 +25,10 @@ int main() {
         cout << "jxjki";
         cout << "yvetl";
         cout << "ikjek";
-        cout << "quxis";
-        cout << "ynrdy";
-        cout << "mpuhe";
-        cout << "toqbr";
+        cout << "pvoia";
+        cout << "pqysf";
+        cout << "ylkio";
+        cout << "phcxq";
+        cout << "hrfvs";
 return 0;
 }
