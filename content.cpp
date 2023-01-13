@@ -131,5 +131,17 @@ int main() {
         cout << "sxxgy";
         cout << "xwaad";
         cout << "qwdny";
+        cout << "klsqx";
+        cout << "vwlrb";
+        cout << "xgxer";
+        cout << "gyhuf";
+        cout << "qwohc";
+        cout << "fgiwt";
+        cout << "uuuyy";
+        cout << "wcvyi";
+        cout << "lhjwo";
+        cout << "moocr";
+        cout << "axnhs";
+        cout << "krpxl";
 return 0;
 }
