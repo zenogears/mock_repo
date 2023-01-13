@@ -140,8 +140,8 @@ int main() {
         cout << "uuuyy";
         cout << "wcvyi";
         cout << "lhjwo";
-        cout << "moocr";
-        cout << "axnhs";
-        cout << "krpxl";
+        cout << "lwwst";
+        cout << "xhysm";
+        cout << "mppga";
 return 0;
 }
