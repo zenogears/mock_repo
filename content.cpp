@@ -166,5 +166,10 @@ int main() {
         cout << "cwnqd";
         cout << "vtglj";
         cout << "bhint";
+        cout << "rvjjd";
+        cout << "lrges";
+        cout << "ofuoy";
+        cout << "cuyva";
+        cout << "vnlox";
 return 0;
 }
