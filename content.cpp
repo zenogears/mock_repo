@@ -286,12 +286,11 @@ int main() {
         cout << "ongma";
         cout << "ehbai";
         cout << "xrnbs";
-        cout << "kwxjs";
-        cout << "qychx";
-        cout << "ofqby";
-        cout << "lkrff";
-        cout << "wxhte";
-        cout << "gmhmf";
-        cout << "dyjbq";
+        cout << "ahvex";
+        cout << "mpagr";
+        cout << "adrkm";
+        cout << "fgjow";
+        cout << "dsprb";
+        cout << "rhmkw";
 return 0;
 }
