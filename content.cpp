@@ -290,12 +290,11 @@ int main() {
         cout << "wtigj";
         cout << "igbhq";
         cout << "dutgx";
-        cout << "qobmy";
-        cout << "osskk";
-        cout << "lhrtm";
-        cout << "doqst";
-        cout << "vawvg";
-        cout << "ukjea";
-        cout << "qiaui";
+        cout << "lmobh";
+        cout << "wwblg";
+        cout << "lpqoo";
+        cout << "sempt";
+        cout << "crlca";
+        cout << "ppduc";
 return 0;
 }
