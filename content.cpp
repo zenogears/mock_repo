@@ -625,10 +625,5 @@ int main() {
         cout << "svitu";
         cout << "lfupl";
         cout << "ckbik";
-        cout << "hkdvl";
-        cout << "nossu";
-        cout << "rfxno";
-        cout << "dcvru";
-        cout << "kheuj";
 return 0;
 }
