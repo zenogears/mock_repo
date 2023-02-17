@@ -620,10 +620,5 @@ int main() {
         cout << "tkdsa";
         cout << "hfkvb";
         cout << "claxj";
-        cout << "chfvo";
-        cout << "xbati";
-        cout << "svitu";
-        cout << "lfupl";
-        cout << "ckbik";
 return 0;
 }
