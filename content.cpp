@@ -620,12 +620,7 @@ int main() {
         cout << "nmxwr";
         cout << "mcdmx";
         cout << "cmqpa";
-        cout << "gvwjq";
-        cout << "kcmqo";
-        cout << "qnwxb";
-        cout << "hwhli";
-        cout << "uajov";
-        cout << "jmjgw";
-        cout << "hgvnv";
+        cout << "ndobd";
+        cout << "bwjkm";
 return 0;
 }
