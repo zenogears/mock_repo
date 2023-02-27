@@ -602,5 +602,12 @@ int main() {
         cout << "pwqmq";
         cout << "gmuww";
         cout << "cgqsu";
+        cout << "lscfd";
+        cout << "ewjwy";
+        cout << "dvleo";
+        cout << "egkxd";
+        cout << "vqfhd";
+        cout << "nkhys";
+        cout << "htgbp";
 return 0;
 }
