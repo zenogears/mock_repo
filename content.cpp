@@ -589,5 +589,12 @@ int main() {
         cout << "hcord";
         cout << "llrri";
         cout << "yymwf";
+        cout << "ttccj";
+        cout << "swusn";
+        cout << "ieyve";
+        cout << "psgsc";
+        cout << "hnbrd";
+        cout << "mplxb";
+        cout << "xyplf";
 return 0;
 }
