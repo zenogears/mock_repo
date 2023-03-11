@@ -602,7 +602,7 @@ int main() {
         cout << "tjdjh";
         cout << "qkhnh";
         cout << "kmnrp";
-        cout << "afwmd";
-        cout << "pxctt";
+        cout << "gdwgu";
+        cout << "fsrhb";
 return 0;
 }
